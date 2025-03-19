@@ -3,6 +3,8 @@
   <img src="https://github.com/mrclputra/mrclputra/blob/main/Screenshot%202025-03-12%20154553-2.png" height="300" />
 </div>
 
+<hr style="width: 80%; border: 1px solid #ddd; margin: 20px auto;">
+
 ###
 
 <div align="center">
