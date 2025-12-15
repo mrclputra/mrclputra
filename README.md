@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/mrclputra/mrclputra/blob/main/Screenshot%202025-03-19%20230455.png" height="300" />
-  <img src="https://github.com/mrclputra/mrclputra/blob/main/Screenshot%202025-03-12%20154553-2.png" height="300" />
+  <img src="mountains.jpg" height="300" />
+  <img src="buddha_ofx.png" height="300" />
 </div>
-
-<hr style="width:70%; border: 0.5px solid #444; margin: 20px auto;">
-
-###
 
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/B5-Cv-NucOgAAAAC/cat-cat-meme.gif"  />
+  <img height="160" src="10billion.png"/>
+  <img height="160" src="rgb_graph.png"/>
+  <img height="160" src="https://media1.tenor.com/m/B5-Cv-NucOgAAAAC/cat-cat-meme.gif"/>
 </div>
+
+C++ and Rust. Real-time 3D graphics and engines.
