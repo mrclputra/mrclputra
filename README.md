@@ -10,5 +10,8 @@
     <img src="https://media1.tenor.com/m/B5-Cv-NucOgAAAAC/cat-cat-meme.gif" style="height:160px; flex:1; object-fit:cover;">
   </div>
   
-  <p align="left" style="max-width: 1200px;">C++ and Rust. Real-time 3D graphics.</p>
+  <div style="width: 100%; max-width: 1200px; text-align: left;">
+    <p></p>
+    <p>C++ and Rust - Real-time 3D graphics enjoyer.</p>
+  </div>
 </div>
